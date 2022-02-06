@@ -9,8 +9,8 @@
         
         .box{
                 background-image:url("mybackground.jpg");
-                padding:800px 600px;
                 margin: 200px;
+        }
         #nav-table {
                 width: 350px;
         }       
