@@ -6,7 +6,10 @@
         body {
             background-color: rgb(131, 182, 235);
         }
-
+        
+        .box{
+                background-image:url("mybackground.jpg");
+                margin: 200px;
         #nav-table {
                 width: 350px;
         }       
