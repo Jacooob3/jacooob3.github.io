@@ -9,7 +9,7 @@
         
         .box{
                 background-image:url("mybackground.jpg");
-                background-size:auto;
+                background-size:800px 600px;
         }
         #nav-table {
                 width: 350px;
