@@ -12,7 +12,10 @@
                 background-size:800px 600px;
                 width:800px;
                 
-                
+                position:fixed;
+                top:50%;
+                left:50%;
+                transform:translate(-50%,-50%);
         }
         #nav-table {
                 width: 350px;
