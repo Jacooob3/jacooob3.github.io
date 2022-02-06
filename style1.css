@@ -11,7 +11,11 @@
                 background-image:url("mybackground.jpg");
                 background-size:800px 600px;
                 width:800px;
-                margin-right:100px;
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                margin-top: -50px;
+                margin-left: -100px;
         }
         #nav-table {
                 width: 350px;
