@@ -5,9 +5,6 @@
         
         body {
             background-color: rgb(131, 182, 235);
-            background-image: url("mybackground.jpg");
-            background-size: auto;
-            background-position: center;
         }
 
         #nav-table {
