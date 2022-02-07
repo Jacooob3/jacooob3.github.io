@@ -21,6 +21,14 @@
                 width:20%;
                 float:left;        
         }
+        #computer{
+                height:20%;
+                width:20%;
+}
+        #soccer{
+                height:20%;
+                width:20%;
+}
         h2 {
             color: rgb(0, 232, 15);
         }  
